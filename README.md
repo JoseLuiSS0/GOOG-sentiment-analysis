@@ -52,9 +52,3 @@ Then run the notebooks in this order:
 - NewsAPI free tier limits data to the last 30 days (~13 trading days with news coverage)
 - Small sample size limits statistical significance
 - Sentiment is computed on headlines only, not full article body
-
-## Next Steps
-
-- Scale to 1+ year of data using Alpha Vantage or a paid NewsAPI plan
-- Add SHAP values for model interpretability
-- Extend to other tickers for comparison
